@@ -1,0 +1,53 @@
+/* === Global Classes === */
+
+/* === General Styling === */
+
+/* === Complementary Palette === */
+/* Main Color */
+:root {
+    --main-color: #5B00BF;
+  }
+  
+  /* Accent Colors */
+  :root {
+    --accent-color-1: #65BF00;
+    --accent-color-2: #F8F8F8;
+    --accent-color-3: #0E0E0E;
+  }
+  
+  /* === Triadic Palette === */
+  /* Main Color */
+  :root {
+    --triadic-main-color: #FF0052;
+  }
+  
+  /* Accent Colors */
+  :root {
+    --triadic-accent-color-1: #47DD00;
+    --triadic-accent-color-2: #0052FF;
+    --triadic-accent-color-3: #F8F8F8;
+    --triadic-accent-color-4: #0E0E0E;
+  }
+  
+  /* === Monochrome Palette === */
+  /* Main Color */
+  :root {
+    --monochrome-main-color: #0E0E0E;
+  }
+  
+  /* Accent Colors */
+  :root {
+    --monochrome-accent-color-1: #282828;
+    --monochrome-accent-color-2: #F8F8F8;
+  }
+  
+  /* === General Styling Rules === */
+  body {
+    font-family: 'Your Preferred Font', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333; /* Adjust as needed */
+  }
+  
+  /* Add more styling rules as per your design requirements */
+  
